@@ -1,3 +1,5 @@
+<img width="603" height="243" alt="image" src="https://github.com/user-attachments/assets/f7fe010f-9ac5-4fba-a000-4af3181a32fc" />
+
 # Counting Cards (Java)
 
 You can find the instructions for this lab at [More Than Equations][more-than-equations]. Create a new repository on GitHub to house your code. Be sure to make the repository public so that I can view and grade it.
